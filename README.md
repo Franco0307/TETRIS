@@ -4,6 +4,9 @@ A modern implementation of the classic Tetris game.
 
 [Play Now](https://franco0307.github.io/TETRIS) 🎮
 
+
+![Tetris Game Screenshot](images/screenshot.png)
+
 ## Game Features
 
 - 🎯 Classic Gameplay
